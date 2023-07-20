@@ -1,6 +1,5 @@
 # Micro-Credit Defaulter predication using Machine Learning!
-### What is Micro Credit?![image](https://github.com/Chizzle001/Micro-Credit-Defaulter-Prediction-Predictive-Modeling-/assets/108518456/ad11873a-35a9-4448-8c7d-370006fa0b1c)
-
+### What is Micro Credit?
 Microcredit is an extremely small loan given to those who lack a steady source of income, collateral. It is used as a way to obtain a loan, acting as a protection against potential loss for the lender should the borrower default in his payments., or any credit history
 
 ### Problem Statement
