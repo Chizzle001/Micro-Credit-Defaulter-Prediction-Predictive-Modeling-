@@ -1,1 +1,1 @@
-# Micro-Credit-Defaulter-Prediction-Predictive-Modeling-
+# Micro Credit Defaulter Prediction Predictive Modeling
